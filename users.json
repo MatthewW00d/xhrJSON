@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "name":"Rod",
+    "email":"rod.dickinson@uwe.ac.uk"
+  },
+  {
+    "id":2,
+    "name":"Matt",
+    "email":"matthew8.wood@uwe.ac.uk",
+    "hobbies": ["Extreme Dog Grooming", "News Raiding", "Yarn Bombing"]
+  },
+  {
+    "id":3,
+    "name":"Rik",
+    "email":"rik.lander@uwe.ac.uk"
+  }
+]
